@@ -1,0 +1,2 @@
+Battery voltage before experiments: 11.0 V
+Battery voltage after experiments: 10.9 V
